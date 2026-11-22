@@ -6,8 +6,8 @@
 
 | 컴퓨터 | 다운로드 |
 | --- | --- |
-| Mac: Apple Silicon (M1·M2·M3·M4 등) | [맥용 설치 파일](https://github.com/Kim-hae-sol/memo-app/releases/download/v0.1.1/Namjun%20Memo-0.1.1-arm64.dmg) |
-| Windows: Intel/AMD 64비트 | [윈도우용 설치 파일](https://github.com/Kim-hae-sol/memo-app/releases/download/v0.1.1/Namjun%20Memo%20Setup%200.1.1.exe) |
+| Mac: Apple Silicon (M1·M2·M3·M4 등) | [맥용 설치 파일](https://github.com/Kim-hae-sol/memo-app/releases/download/v0.1.1/Namjun.Memo-0.1.1-arm64.dmg) |
+| Windows: Intel/AMD 64비트 | [윈도우용 설치 파일](https://github.com/Kim-hae-sol/memo-app/releases/download/v0.1.1/Namjun.Memo.Setup.0.1.1.exe) |
 
 Intel Mac용은 제공하지 않습니다. **Windows 실제 기기에서의 설치·실행 검증은 아직 완료되지 않았습니다.**
 
