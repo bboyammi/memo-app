@@ -4,17 +4,17 @@
 
 메모·할 일·캘린더를 한곳에서 쓰고, 사진에 어울리는 테마색도 고를 수 있어요. 무료이며 GitHub 로그인은 필요하지 않아요.
 
-## 💻 최신 버전 다운로드 (v0.1.3)
+## 💻 최신 버전 다운로드 (v0.1.4)
 
 ### 🍎 Mac용
 
-[**Mac용 다운로드 (.dmg)**](https://github.com/bboyammi/memo-app/releases/download/v0.1.3/Namjun-Memo-0.1.3-arm64.dmg)
+[**Mac용 다운로드 (.dmg)**](https://github.com/bboyammi/memo-app/releases/download/v0.1.4/Namjun-Memo-0.1.4-arm64.dmg)
 
 Apple Silicon(M1·M2·M3·M4 등) Mac용입니다.
 
 ### 🪟 Windows용
 
-[**Windows용 다운로드 (.exe)**](https://github.com/bboyammi/memo-app/releases/download/v0.1.3/Namjun-Memo-Setup-0.1.3.exe)
+[**Windows용 다운로드 (.exe)**](https://github.com/bboyammi/memo-app/releases/download/v0.1.4/Namjun-Memo-Setup-0.1.4.exe)
 
 Intel·AMD 64비트 Windows PC용입니다.
 
@@ -51,7 +51,7 @@ Intel·AMD 64비트 Windows PC용입니다.
 
 v0.1.2 이상을 설치하면 새 버전이 나왔을 때 앱이 자동으로 확인하고, 다운로드와 재시작을 안내합니다.
 
-v0.1.1 사용자는 먼저 위의 v0.1.3 설치 파일을 한 번 직접 설치해 주세요.
+v0.1.1 사용자는 먼저 위의 v0.1.4 설치 파일을 한 번 직접 설치해 주세요.
 
 ## ⚠️ 보안 안내
 
